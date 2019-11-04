@@ -14,6 +14,8 @@
 
 3. 에너지 수확
 
+![태양광](http://image.dongascience.com/Photo/2019/02/a77d8c33651344e25b82bff5d7081642.JPG)
+
 태양광 발전, 토러스 형태를 이용한 핵융합로
 
 4. 달력
