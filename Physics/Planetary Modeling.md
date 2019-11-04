@@ -3,6 +3,7 @@
 
 1. 행성 모양 디자인
 
+![토러스](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Torus2.png/220px-Torus2.png)
 토러스 모양
 
 2. 존재 가능성
