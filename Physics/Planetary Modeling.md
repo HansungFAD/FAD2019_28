@@ -8,7 +8,7 @@
 
 2. 존재 가능성
 
-![평형](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geek.com%2Fnews%2Fgeek-answers-why-doesnt-the-iss-have-artificial-gravity-1563351%2F&psig=AOvVaw1plXnKxPpSdH6cvuGyzspx&ust=1572935729327000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDkoK74z-UCFQAAAAAdAAAAABAJ)
+![평형](http://www.geek.com/wp-content/uploads/2013/07/force_centrifugal-centripetal-300x260.gif)
 
 원심력과 중력이 적절히 평형을 이루면 됨
 
