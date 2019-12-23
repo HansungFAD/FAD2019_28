@@ -28,3 +28,17 @@ Calander used on this planet would use Solar iteration.<br>
 A year would be measured with the shift of the rotation axis reverting back to its original state, whatever that state could be.<br>
 <br>
 <br>
+**Model Name : Tetrahedron Model**<br>
+**Model Contributors : 이준구 AND 이찬희**<br>
+**Model Details :**<br>
+In order to keep its mass-electromagentic balance intact, the model consists of a tetrahedron which has approximately the same mass and density of that of the Earth. Since this planetoid and the Earth has the same volume, we can speculate that a single side of the tetrahedron would be 2x10^7 kilometres.<br>
+**Model Possibility :**<br>
+Such shape would collapse into a semi-sphere via gravitational forces, and this model would not last as a tetrahedron for eterity. The tetrahedron shape could possibly naturally form, as the formation of a planet involves gathering of asteroidal chunks of minerals. As the mass of each particle considered reduce, the shape of the sum of the parts could be out of the gravitational 'mold' of sphere.
+<br>
+**Consideration for Designated Model :**<br>
+The collapse mentioned above would provide thermal and mechanical energy to the system of this planetary model. Such energy could be calculated by integration of each particles of the planetoid shifting.<br>
+The planet would collect energy from the star at the center of the system.<br>
+Calander used on this planet would use Solar iteration.<br>
+A year would be measured with the revolution cycle of the planet.<br>
+<br>
+<br>
