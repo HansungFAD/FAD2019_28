@@ -42,3 +42,41 @@ Calander used on this planet would use Solar iteration.<br>
 A year would be measured with the revolution cycle of the planet.<br>
 <br>
 <br>
+**Model Name : Mobius-Island-Cylinder Model**<br>
+**Model Contributors : 하태윤 And 고평강**<br>
+**Model Details :**<br>
+Exception_Information_Not_Sufficient<br>
+**Model Possibility :**<br>
+Exception_Inforamtion_Not_Sufficient<br>
+**Consideration for Designated Model :**<br>
+Exception_Information_Not_Sufficient<br>
+<br>
+<br>
+**Model Name : Revolving Torus Model**<br>
+**Model Contributors : 한석휘 AND 김준호**<br>
+**Model Details :**<br>
+The model involves a toroidal planet which has the axis is seperated from the center of the system. In order to conserve the stability while there is prevalent disbalance in gravitational forces, it has to be quite far from the star it revolves. The planet also rotates by the vertical axis of the ring, which crosses the gravitational center.<br>
+**Model Possibility :**<br>
+In order to keep the balance in itself, the planetoid has to have enough angualr velocity to cancel out the gravitational force directed inwards of the torus ring collapsing itself back to a sphere. If such rotation were to happen, it has a high probability to break down to a collection of asteroids like the kuiper belt.<br>
+**Consideration for Designated Model :**<br>
+*Note that this part of transcription were done heavily under manual translation of intentions; It could be different from what the actual Contributors intended. Erase this sentence when confirmed by both of the Contributors.*<br>
+The planet would construct a fusion reactor utilizing the planetoid's intrinsic magnetic field inside after coring out the planet. This makes this planet into a huge tokamak reactor. Digging multiple holes on the reaction chamber allows the light to used at any time of the day.<br>
+<br>
+<br>
+**Model Name : Jupiter**<br>
+**Model Contributors : 최정민 AND 최재원**<br>
+**Model Details :**<br>
+Exception_Nothing_New<br>
+**Model Possibility :**<br>
+*This is certainly possible since such planet already exists*<br>
+**Consideration for Designated Model :**<br>
+Exception_Nothing_New<br>
+<br>
+<br>
+**Model Name : __Model_Name_Here__**<br>
+**Model Contributors : __Contributor_1_Name_Here_AND_Contributor_2_Name_Here__**<br>
+**Model Details : __Model_Details_Here__**<br>
+**Model Possibility : __Possibility_Details_Here__**<br>
+**Consideration for Designated Model : __Consideration_Here__**<br>
+<br>
+<br>
