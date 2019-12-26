@@ -59,7 +59,7 @@ The model involves a toroidal planet which has the axis is seperated from the ce
 **Model Possibility :**<br>
 In order to keep the balance in itself, the planetoid has to have enough angualr velocity to cancel out the gravitational force directed inwards of the torus ring collapsing itself back to a sphere. If such rotation were to happen, it has a high probability to break down to a collection of asteroids like the kuiper belt.<br>
 **Consideration for Designated Model :**<br>
-*Note that this part of transcription were done heavily under manual translation of intentions; It could be different from what the actual Contributors intended. Erase this sentence when confirmed by both of the Contributors.*<br>
+*Note that this part of transcription were done heavily under manual translation of intentions since there wasn't sufficient details; It could be different from what the actual Contributors intended. Erase this sentence when confirmed by both of the Contributors.*<br>
 The planet would construct a fusion reactor utilizing the planetoid's intrinsic magnetic field inside after coring out the planet. This makes this planet into a huge tokamak reactor. Digging multiple holes on the reaction chamber allows the light to used at any time of the day.<br>
 <br>
 <br>
@@ -73,9 +73,10 @@ Exception_Nothing_New<br>
 Exception_Nothing_New<br>
 <br>
 <br>
-**Model Name : __Model_Name_Here__**<br>
-**Model Contributors : __Contributor_1_Name_Here_AND_Contributor_2_Name_Here__**<br>
-**Model Details : __Model_Details_Here__**<br>
+**Model Name : Diamond-cored Planet**<br>
+**Model Contributors : 김세찬 AND 임지원**<br>
+**Model Details :**<br>
+This model consists of a planetoid with a diamond inner core and mantle/crust of silicon. This planet is spherical in shape, and the diamond core could have new material properties.
 **Model Possibility : __Possibility_Details_Here__**<br>
 **Consideration for Designated Model : __Consideration_Here__**<br>
 <br>
