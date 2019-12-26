@@ -76,8 +76,21 @@ Exception_Nothing_New<br>
 **Model Name : Diamond-cored Planet**<br>
 **Model Contributors : 김세찬 AND 임지원**<br>
 **Model Details :**<br>
-This model consists of a planetoid with a diamond inner core and mantle/crust of silicon. This planet is spherical in shape, and the diamond core could have new material properties.
-**Model Possibility : __Possibility_Details_Here__**<br>
-**Consideration for Designated Model : __Consideration_Here__**<br>
+This model consists of a planetoid with a diamond inner core and mantle/crust of silicon. This planet is spherical in shape, and the diamond core could have new material properties. The silicon crust and mantle would form SiO2; the most prevalent mineral on earth.<br>
+**Model Possibility :**<br>
+Even when the shape of the planetoid is indeed a sphere, since silicon has more mass than carbon, the whole planet would not be stable. The total reversal of components would commence after considerable amount of time.<br>
+**Consideration for Designated Model :**<br>
+Inhabitants on this planet would harvest energy from their sun.<br>
+<br>
+<br>
+**Model Name : Shell Model**<br>
+**Model Contributors : 이준범 AND 박하민**<br>
+**Model Details :**<br>
+The model has a shape of a spherical shell, enveloping the star of the system.<br>
+**Model Possibility :**<br>
+According to Newton's Shell theorem, No net gravitational force is exerted to and by the symmetrical shell. This makes the system stable compared to other planetary system with planets enveloping the star. Torus and Napkin ring models are considered, and they are proven to be more unstable than the shell model according to the papers cited.<br>
+**Consideration for Designated Model :**<br>
+Since the shape of the planet envelops the star, inhabitants on it could collect the sun's energy very well, as the planet works like a part of a dyson sphere.<br>
+Since this planet doesn't revolve the star technically, there would be no seasons and day/night changes. No calander would be needed because of the balance of the planet itself.<br>
 <br>
 <br>
